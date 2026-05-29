@@ -1,36 +1,30 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>This page lists peer-reviewed publications and, where permitted, accepted manuscript versions.</p>
 
-{% include base_path %}
+<h2>Peer-reviewed articles</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="publication">
+  <h3>Process Essentialism and the Epistemology of Academic Knowledge: Why How We Write Should Not Determine What We Know</h3>
 
+  <p>
+    <strong>Masaya Ochiai</strong><br>
+    <em>Synthese</em>, published online 4 May 2026.<br>
+    DOI: <a href="https://doi.org/10.1007/s11229-026-05580-3">10.1007/s11229-026-05580-3</a>
+  </p>
 
+  <ul>
+    <li><a href="https://doi.org/10.1007/s11229-026-05580-3">Version of Record</a></li>
+    <li>Accepted Manuscript: to be added after the appropriate manuscript file is prepared.</li>
+  </ul>
+</div>
 
+<h2>Accepted manuscripts</h2>
+
+<p>
+Accepted manuscript files will be linked here when they are ready to share in accordance with the relevant publisher policies. The Version of Record should be cited where available.
+</p>

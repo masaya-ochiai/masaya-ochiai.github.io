@@ -1,6 +1,5 @@
-# Welcome to Jekyll!
-#
-# Site configuration for Masaya Ochiai's official academic website.
+# Site configuration for Masaya Ochiai's official website.
+# Academic Pages / Jekyll configuration.
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -8,7 +7,7 @@ site_theme               : "default"
 title                    : "Masaya Ochiai"
 title_separator          : "-"
 name                     : &name "Masaya Ochiai"
-description              : &description "Independent researcher in philosophy of finance, social epistemology, and the epistemology of financial markets."
+description              : &description "Independent researcher studying knowledge-production systems, philosophy of finance, social epistemology, scholarly publishing, and artificial intelligence."
 url                      : "https://masaya-ochiai.github.io"
 baseurl                  : ""
 repository               : "masaya-ochiai/masaya-ochiai.github.io"
@@ -19,7 +18,7 @@ author:
   avatar           :
   name             : "Masaya Ochiai"
   pronouns         :
-  bio              : "Independent researcher in philosophy of finance, social epistemology, and the epistemology of financial markets."
+  bio              : "Independent researcher studying knowledge-production systems, philosophy of finance, social epistemology, scholarly publishing, and artificial intelligence."
   location         : "Japan"
   employer         : "Independent researcher"
   uri              : "https://masaya-ochiai.github.io"
@@ -28,10 +27,10 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=_DJpm4EAAAAJ"
   inspire-hep      :
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0009-0006-6069-419X"
   semantic         :
   ssrn             :
   pubmed           :
@@ -79,7 +78,7 @@ publication_category:
   books:
     title: "Books"
   manuscripts:
-    title: "Journal Articles and Accepted Manuscripts"
+    title: "Peer-Reviewed Articles"
   conferences:
     title: "Conference Papers"
 
@@ -138,14 +137,16 @@ facebook:
   publisher              :
 
 og_image                 :
-og_description           : "Official website of Masaya Ochiai, independent researcher in philosophy of finance, social epistemology, and the epistemology of financial markets."
+og_description           : "Official website of Masaya Ochiai, independent researcher in philosophy of finance, social epistemology, scholarly publishing, artificial intelligence, and knowledge-production systems."
 
-# For specifying social profiles
+# Structured data social profiles
 social:
   type                   : "Person"
   name                   : "Masaya Ochiai"
   links:
     - "https://masaya-ochiai.github.io"
+    - "https://orcid.org/0009-0006-6069-419X"
+    - "https://scholar.google.com/citations?user=_DJpm4EAAAAJ"
     - "https://github.com/masaya-ochiai"
 
 # Analytics
