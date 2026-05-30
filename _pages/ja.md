@@ -15,7 +15,9 @@ author_profile: true
 ## 主な実績
 
 - 査読付き国際哲学誌 **Synthese** に論文掲載。
-- **Big Data & Society** および **International Journal of Law and Information Technology** において査読を担当。
+- 査読者としての活動：
+  - **Big Data & Society** — ad hoc referee, 2026
+  - **International Journal of Law and Information Technology** — ad hoc referee, 2026
 
 ## 主な研究テーマ
 

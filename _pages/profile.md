@@ -41,6 +41,6 @@ His current research focuses on philosophy of finance, social epistemology, the 
 
 For academic correspondence, media inquiries, or writing requests, please contact:
 
-`your-email [at] example.com`
+[masaya.ochiai.research@gmail.com](mailto:masaya.ochiai.research@gmail.com)
 
 研究上の問い合わせ、寄稿依頼、取材依頼等は、上記メールアドレスまでお願いします。
