@@ -15,7 +15,7 @@ repository               : "masaya-ochiai/masaya-ochiai.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           :
+  avatar           : "profile.png"
   name             : "Masaya Ochiai"
   pronouns         :
   bio              : "Independent researcher studying knowledge-production systems, philosophy of finance, social epistemology, scholarly publishing, and artificial intelligence."
@@ -136,7 +136,7 @@ facebook:
   app_id                 :
   publisher              :
 
-og_image                 :
+og_image                 : "/images/profile.png"
 og_description           : "Official website of Masaya Ochiai, independent researcher in philosophy of finance, social epistemology, scholarly publishing, artificial intelligence, and knowledge-production systems."
 
 # Structured data social profiles
