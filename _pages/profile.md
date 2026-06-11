@@ -35,6 +35,7 @@ His current research focuses on philosophy of finance, social epistemology, the 
 
 - [ORCID](https://orcid.org/0009-0006-6069-419X)
 - [Google Scholar](https://scholar.google.com/citations?user=_DJpm4EAAAAJ)
+- [PhilPeople](https://philpeople.org/profiles/masaya-ochiai)
 - [GitHub](https://github.com/masaya-ochiai)
 
 ## Contact
