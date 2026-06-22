@@ -9,9 +9,9 @@ redirect_from:
 
 I am a Japan-based independent researcher and systematic trader. My work spans philosophy, scholarly publishing, finance, and the social implications of large language models.
 
-While still in high school, I earned income through affiliate marketing. After leaving high school before graduating, I moved into systematic trading and later achieved financial independence.
+While still in high school, I earned income through affiliate marketing. After leaving high school without graduating, I moved into systematic trading and later achieved financial independence.
 
-I have published sole-authored articles in international peer-reviewed journals, including Synthese.
+I have published sole-authored articles in international peer-reviewed journals, including *Synthese*.
 
 ## Publications
 
