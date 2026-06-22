@@ -7,7 +7,7 @@ site_theme               : "default"
 title                    : "Masaya Ochiai"
 title_separator          : "-"
 name                     : &name "Masaya Ochiai"
-description              : &description "Independent researcher studying knowledge-production systems, philosophy of finance, social epistemology, scholarly publishing, and artificial intelligence."
+description              : &description "Independent researcher and systematic trader working across philosophy, scholarly publishing, finance, and the social implications of large language models."
 url                      : "https://masaya-ochiai.github.io"
 baseurl                  : ""
 repository               : "masaya-ochiai/masaya-ochiai.github.io"
@@ -18,7 +18,7 @@ author:
   avatar           : "profile.png"
   name             : "Masaya Ochiai"
   pronouns         :
-  bio              : "Independent researcher studying knowledge-production systems, philosophy of finance, social epistemology, scholarly publishing, and artificial intelligence."
+  bio              : "Independent researcher and systematic trader."
   location         : "Japan"
   employer         : "Independent researcher"
   uri              : "https://masaya-ochiai.github.io"
@@ -137,7 +137,7 @@ facebook:
   publisher              :
 
 og_image                 : "/images/profile.png"
-og_description           : "Official website of Masaya Ochiai, independent researcher in philosophy of finance, social epistemology, scholarly publishing, artificial intelligence, and knowledge-production systems."
+og_description           : "Official website of Masaya Ochiai, an independent researcher and systematic trader working across philosophy, scholarly publishing, finance, and the social implications of large language models."
 
 # Structured data social profiles
 social:
