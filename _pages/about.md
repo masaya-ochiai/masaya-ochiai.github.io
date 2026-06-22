@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an independent researcher based in Japan. My work examines knowledge-production systems, including scholarly publishing, artificial intelligence, and financial markets, through systems thinking and quantitative perspectives developed through professional practice in algorithmic trading.
+I am a Japan-based independent researcher and active systematic trader. My work spans philosophy, scholarly publishing, finance, and the social implications of large language models.
 
-My current research focuses on philosophy of finance, social epistemology, and the epistemology of financial markets. I am especially interested in cases where publication, disclosure, or public circulation changes the conditions under which something can be known.
+While in high school, I built my initial trading capital through affiliate marketing. After leaving high school without graduating, I moved into systematic trading and later achieved financial independence.
+
+I have published sole-authored articles in international peer-reviewed journals, including *Synthese*.
 
 ## Publications
 
-My peer-reviewed publications and accepted manuscript versions are listed on the [Publications](/publications/) page.
+My peer-reviewed publications are listed on the [Publications](/publications/) page.
 
 ## Japanese
 
-日本語でのプロフィール、研究紹介、寄稿情報は [Japanese](/ja/) ページにまとめています。
+日本語でのプロフィールと研究紹介は [Japanese](/ja/) ページにまとめています。
