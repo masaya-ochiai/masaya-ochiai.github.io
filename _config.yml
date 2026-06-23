@@ -43,7 +43,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "masaya-ochiai"
+  github           :
   kaggle           :
   stackoverflow    :
 
@@ -149,7 +149,6 @@ social:
     - "https://orcid.org/0009-0006-6069-419X"
     - "https://scholar.google.com/citations?user=_DJpm4EAAAAJ"
     - "https://philpeople.org/profiles/masaya-ochiai"
-    - "https://github.com/masaya-ochiai"
 
 # Analytics
 analytics:
@@ -189,6 +188,7 @@ exclude:
   - Rakefile
   - README
   - README.md
+  - markdown_generator
   - tmp
   - vendor
 

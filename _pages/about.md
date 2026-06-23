@@ -17,6 +17,12 @@ I have published sole-authored articles in international peer-reviewed journals,
 
 My peer-reviewed publications are listed on the [Publications](/publications/) page.
 
+## Writing and media inquiries
+
+I welcome commissioned essays, commentary, interviews, and media inquiries on philosophy, scholarly publishing, finance, and the social implications of large language models.
+
+Contact: [masaya.ochiai.research@gmail.com](mailto:masaya.ochiai.research@gmail.com)
+
 ## Japanese
 
 日本語でのプロフィールと研究紹介は [Japanese](/ja/) ページにまとめています。

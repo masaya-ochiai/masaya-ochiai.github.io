@@ -15,3 +15,9 @@ author_profile: true
 ## 論文
 
 査読付き論文は、[Publications](/publications/)ページに掲載しています。
+
+## 寄稿・取材
+
+哲学、学術出版、金融、LLMの社会的影響に関する寄稿、論考、インタビュー、取材のご依頼を受け付けています。
+
+お問い合わせ：[masaya.ochiai.research@gmail.com](mailto:masaya.ochiai.research@gmail.com)

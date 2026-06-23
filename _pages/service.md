@@ -1,14 +1,12 @@
 ---
 permalink: /service/
-title: "Service"
+title: "Academic Service"
 author_profile: true
 ---
 
-## Peer review and academic service
+## Peer review
 
 I have served as an ad hoc referee for peer-reviewed academic journals.
-
-### Peer review
 
 - **Big Data & Society** — ad hoc referee, 2026
 - **International Journal of Law and Information Technology** — ad hoc referee, 2026
