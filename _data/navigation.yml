@@ -1,12 +1,11 @@
 main:
   - title: "Home"
     url: /
-
+  - title: "Writing & Media"
+    url: /media/
   - title: "Publications"
     url: /publications/
-
   - title: "Academic Service"
     url: /service/
-
   - title: "Japanese"
     url: /ja/
