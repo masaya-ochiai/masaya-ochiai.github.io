@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Japan-based independent researcher and systematic trader. I am also a high-school dropout with no academic degree.
+I am a Japan-based independent researcher and systematic trader. My work spans philosophy, scholarly publishing, finance, and the social implications of large language models.
 
-My work spans philosophy, scholarly publishing, finance, and the social implications of large language models. I am especially interested in how knowledge is produced, evaluated, circulated, and misunderstood—inside and outside academic institutions.
+While still in high school, I earned income through affiliate marketing. After leaving high school without graduating, I moved into systematic trading and later achieved financial independence.
 
-While still in high school, I earned income through affiliate marketing. After leaving high school without graduating, I moved into systematic trading and later achieved financial independence. I now work outside the university system as an independent researcher.
-
-I have published sole-authored articles in international peer-reviewed journals, including *Synthese* ([DOI: 10.1007/s11229-026-05580-3](https://doi.org/10.1007/s11229-026-05580-3)).
+I have published sole-authored articles in international peer-reviewed journals, including *Synthese*.
 
 ## Writing and media inquiries
 
