@@ -27,6 +27,4 @@ Contact: [masaya.ochiai.research@gmail.com](mailto:masaya.ochiai.research@gmail.
 
 My peer-reviewed publications are listed on the [Publications](/publications/) page.
 
-## Japanese
 
-日本語でのプロフィールと研究紹介は [Japanese](/ja/) ページにまとめています。
