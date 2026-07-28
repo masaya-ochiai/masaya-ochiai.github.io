@@ -49,7 +49,7 @@ author:
 
   # Social media
   artstation       :
-  bluesky          :
+  bluesky          : "https://bsky.app/profile/masayaochiai.bsky.social"
   facebook         :
   flickr           :
   foursquare       :
@@ -60,13 +60,13 @@ author:
   lastfm           :
   linkedin         :
   mastodon         :
-  medium           :
+  medium           : "https://masayaochiai.medium.com/"
   pinterest        :
   soundcloud       :
   steam            :
   telegram         :
   tumblr           :
-  twitter          :
+  twitter          : "MasayaOchiai"
   vine             :
   weibo            :
   wikipedia        :
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "MasayaOchiai"
 facebook:
   username               :
   app_id                 :
@@ -149,6 +149,9 @@ social:
     - "https://orcid.org/0009-0006-6069-419X"
     - "https://scholar.google.com/citations?user=_DJpm4EAAAAJ"
     - "https://philpeople.org/profiles/masaya-ochiai"
+    - "https://masayaochiai.medium.com/"
+    - "https://x.com/MasayaOchiai"
+    - "https://bsky.app/profile/masayaochiai.bsky.social"
 
 # Analytics
 analytics:
